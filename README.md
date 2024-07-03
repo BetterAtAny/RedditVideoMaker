@@ -1,7 +1,8 @@
-# TODO
+# Updates 
 
-Make font better 
-Add more voice engines 
-Custom youtube video 
-Make GUI 
-Turn into an EXE 
+- Higher resolution video
+
+# Requirements 
+
+Python 3.12 
+3 IQ 
