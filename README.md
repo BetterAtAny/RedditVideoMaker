@@ -4,5 +4,5 @@
 
 # Requirements 
 
-Python 3.12\n
+Python 3.12 and 
 3 IQ 
